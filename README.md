@@ -1,7 +1,6 @@
 
 
-<div align="center">
-<img src="logo.png" height="90px" width="auto" /> 
+<div align="center"> 
 <h2>
     <em>Résumé</em> minimalista maquetado para web y pdf
 </h2>

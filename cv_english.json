@@ -5,7 +5,7 @@
     "image": "/me.webp",
     "email": "enolgs99@gmail.com",
     "phone": "+34",
-    "url": "https://midu.dev",
+    "url": "https://",
     "summary": "Junior web developer. Currently I am working as a helpdesk technician. I live in Asturias, Spain.",
     "location": {
       "postalCode": "33630",
@@ -199,7 +199,7 @@
       "name": "Portfolio",
       "description": "This is my personal portfolio, where I showcase my projects and skills.",
       "highlights": ["Web development", "Frontend", "Astro", "Next.js"],
-      "url": "https://midu.dev"
+      "url": "https://"
     }
   ]
 }
