@@ -25,10 +25,6 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
     <a href="#🧞-comandos">
         Comandos
     </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="https://midu.dev">
-        Personal
-    </a>
    
 </div>
 
