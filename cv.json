@@ -1,275 +1,180 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Enol García Sariego",
+    "label": "Desarrollador Web Full-Stack con titulación en Desarrollo Multiplataforma",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "enolgs99@gmail.com",
+    "phone": "+34",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Desarrollador web junior. Actualmente trabajo como técnico de soporte. Vivo en Asturias, España.",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "33630",
+      "city": "Pola de Lena",
       "countryCode": "ES",
       "region": "España"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "enol-garcia-sariego",
+        "url": "https://www.linkedin.com/in/enol-garcía-sariego/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "enolsurfer",
+        "url": "https://github.com/enolsurfer"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Seresco",
+      "position": "Técnico de soporte",
+      "url": "https://seresco.es",
+      "startDate": "2024-09-12",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": [
-        "Started the company"
-      ]
+      "summary": "Actualmente trabajo en el departamento de soporte, donde soy responsable de resolver incidencias y dar soporte a varias instituciones públicas de Asturias."
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Esmena",
+      "position": "Desarrollador en C",
+      "url": "https://esmena.com",
+      "startDate": "2023-04-09",
+      "endDate": "2023-06-12",
+      "summary": "Escribía mensajes que se mostraban en pantalla cuando el almacén realizaba una acción, o para que realizara una acción concreta."
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Factoria F5",
+      "position": "Desarrollador Full-Stack Junior",
+      "url": "https://factoriaf5.org",
+      "startDate": "2023-08-12",
+      "endDate": "2024-05-06",
+      "summary": "Realicé un bootcamp de desarrollo web full-stack, donde aprendí a desarrollar aplicaciones web con JavaScript, React, Node.js y otras tecnologías. También trabajé en varios proyectos durante el bootcamp."
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "education": [
+    {
+      "institution": "TuniversFormacion",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Desarrollo Multiplataforma",
+      "degree": "Grado Superior en Desarrollo de Aplicaciones Multiplataforma",
+      "studyType": "Grado Superior",
+      "startDate": "2022-08-12",
+      "endDate": "2024-06-20"
+    },
+    {
+      "institution": "Factoria F5",
+      "url": "https://factoriaf5.org",
+      "area": "Desarrollo Web Full-Stack",
+      "degree": "Certificado de Bootcamp en Desarrollo Web",
+      "studyType": "Bootcamp",
+      "startDate": "2023-08-12",
+      "endDate": "2024-05-06"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
+      "level": "Avanzado",
+      "keywords": ["Desarrollo web", "Frontend"]
     },
     {
       "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
+      "level": "Avanzado",
+      "keywords": ["Desarrollo web", "Frontend", "Diseño responsivo"]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
+      "level": "Intermedio-avanzado",
+      "keywords": ["Desarrollo web", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
+      "level": "Básico",
+      "keywords": ["Desarrollo web", "Frontend", "Framework CSS", "Diseño responsivo"]
     },
     {
       "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
+      "level": "Básico",
+      "keywords": ["Desarrollo web", "Frontend", "Backend", "Superset de JavaScript"]
     },
     {
       "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
+      "level": "Intermedio-avanzado",
+      "keywords": ["Desarrollo web", "Backend", "JavaScript", "Servidor"]
     },
     {
       "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
+      "level": "Intermedio",
+      "keywords": ["Bases de datos", "SQL", "Backend"]
     },
     {
       "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
+      "level": "Intermedio-avanzado",
+      "keywords": ["Control de versiones", "Colaboración", "Código fuente"]
     },
     {
       "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
+      "level": "Intermedio-avanzado",
+      "keywords": ["Control de versiones", "Colaboración", "Código fuente", "Git"]
     },
     {
       "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
+      "level": "Intermedio",
+      "keywords": ["Desarrollo web", "Frontend", "Framework de React", "SSR", "Generación estática"]
     },
     {
       "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "level": "Intermedio-avanzado",
+      "keywords": ["Desarrollo web", "Frontend", "Librería de JavaScript", "UI"]
+    },
+    {
+      "name": "Astro",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo web", "Frontend", "Framework de JavaScript", "SSR"]
+    },
+    {
+      "name": "Express",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo web", "Backend", "Framework de Node.js"]
+    },
+    {
+      "name": "Postman",
+      "level": "Intermedio",
+      "keywords": ["API", "Testing", "Desarrollo web"]
+    },
+    {
+      "name": "Figma",
+      "level": "Intermedio",
+      "keywords": ["Diseño UI/UX", "Prototipado"]
     }
   ],
   "languages": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
+      "language": "Español",
+      "fluency": "Nativo"
     },
     {
-      "language": "English",
-      "fluency": "Advanced"
+      "language": "Inglés",
+      "fluency": "Avanzado"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Tecnología",
+      "keywords": ["Desarrollo web", "Programación", "Ciberseguridad"]
+    },
+    {
+      "name": "Deportes",
+      "keywords": ["Surf", "Skate", "Snowboard"]
+    }
+  ],
   "projects": [
     {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
-      ],
-      "url": "https://mars.codes"
-    },
-    {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://adventjs.dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "name": "Portfolio",
+      "description": "Este es mi portfolio personal, donde muestro mis proyectos y habilidades.",
+      "highlights": ["Desarrollo web", "Frontend", "Astro", "Next.js"],
+      "url": "https://midu.dev"
     }
   ]
 }
