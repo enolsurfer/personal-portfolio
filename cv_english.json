@@ -4,8 +4,8 @@
     "label": "Full-Stack Web developer & a degree in Multiplatform Development",
     "image": "/me.webp",
     "email": "enolgs99@gmail.com",
-    "phone": "+34",
-    "url": "https://",
+    "phone": "+34622436037",
+    "url": "https://enolgarcia-portfolio.netlify.app/",
     "summary": "Junior web developer. Currently I am working as a helpdesk technician. I live in Asturias, Spain.",
     "location": {
       "postalCode": "33630",
@@ -199,7 +199,7 @@
       "name": "Portfolio",
       "description": "This is my personal portfolio, where I showcase my projects and skills.",
       "highlights": ["Web development", "Frontend", "Astro", "Next.js"],
-      "url": "https://",
+      "url": "https://enolgarcia-portfolio.netlify.app/",
       "github": "https://github.com/enolsurfer/personal-portfolio"
     }
   ]

@@ -4,8 +4,8 @@
     "label": "Desarrollador Web Full-Stack con titulación en Desarrollo Multiplataforma",
     "image": "/me.webp",
     "email": "enolgs99@gmail.com",
-    "phone": "+34",
-    "url": "https://",
+    "phone": "+34622436037",
+    "url": "https://enolgarcia-portfolio.netlify.app/",
     "summary": "Desarrollador web junior. Actualmente trabajo como técnico de soporte. Vivo en Asturias, España.",
     "location": {
       "postalCode": "33630",
@@ -174,7 +174,7 @@
       "name": "Portfolio",
       "description": "Este es mi portfolio personal, donde muestro mis proyectos y habilidades.",
       "highlights": ["Desarrollo web", "Frontend", "Astro", "Next.js"],
-      "url": "https://",
+      "url": "https://enolgarcia-portfolio.netlify.app/",
       "github": "https://github.com/enolsurfer/personal-portfolio"
     }
   ]
