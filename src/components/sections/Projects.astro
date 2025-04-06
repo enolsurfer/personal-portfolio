@@ -9,7 +9,7 @@ import { projects } from "@cv"
   <ul>
     {
       projects.map(
-        ({ url, description, highlights, name, isActive, github }) => {
+        ({ url, description, highlights, name, github }) => {
           return (
             <li>
               <article>
@@ -18,7 +18,6 @@ import { projects } from "@cv"
                     <a href={url} target="_blank" title={`Ver el proyecto ${name}`}>
                       {name}
                     </a>
-                    {isActive && <span>•</span>}
                     {github && (
                       <a
                         class="github-code-link"

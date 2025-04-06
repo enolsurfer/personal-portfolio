@@ -199,7 +199,8 @@
       "name": "Portfolio",
       "description": "This is my personal portfolio, where I showcase my projects and skills.",
       "highlights": ["Web development", "Frontend", "Astro", "Next.js"],
-      "url": "https://"
+      "url": "https://",
+      "github": "https://github.com/enolsurfer/personal-portfolio"
     }
   ]
 }
